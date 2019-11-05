@@ -57,6 +57,7 @@ app/.env*
 # gatsby files
 app/.cache/
 app/public
+app/build-assets
 
 # Mac files
 app/.DS_Store
